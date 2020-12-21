@@ -5,11 +5,11 @@
 #### intelligence and talent are simply good starting points. A 
 #### growth mindset is synonymous with a love of learning.
 # **how you can Perseverance, gumption traps, and maintaining a growth mindset?**
-*Challenges
-*Obstacles
-*Effort
-*Criticism
-*Success of others
+* Challenges
+* Obstacles
+* Effort
+* Criticism
+* Success of others
 ~~you can use this link~~
 http://github.com - automatic!
 [GitHub](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
