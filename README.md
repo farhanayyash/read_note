@@ -1,5 +1,4 @@
 # **growth mindset**
-@ sarahoth
 ##### *What is a growth mindset?*
 #### A growth mindset believes that one’s fundamental abilities
 #### can be developed through perseverance and effort;
@@ -14,4 +13,4 @@
 ~~you can use this link~~
 https://www.atlassian.com/blog/inside-atlassian/growth-mindset  - automatic!
 [https://www.atlassian.com/blog/inside-atlassian/growth-mindset ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)https://www.atlassian.com/blog/inside-atlassian/growth-mindset - automatic!
-
+@sarahoth
