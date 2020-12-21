@@ -1,4 +1,5 @@
 # **growth mindset**
+![growth mindset](/images/ffff.PNG)
 ### *What is a growth mindset?*
 #### A growth mindset believes that one’s fundamental abilities
 #### can be developed through perseverance and effort;
