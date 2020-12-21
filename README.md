@@ -12,5 +12,5 @@
 * Success of others
 ~~you can use this link~~
 https://www.atlassian.com/blog/inside-atlassian/growth-mindset  - automatic!
-[GitHub](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)https://www.atlassian.com/blog/inside-atlassian/growth-mindset - automatic!
+[https://www.atlassian.com/blog/inside-atlassian/growth-mindset ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)https://www.atlassian.com/blog/inside-atlassian/growth-mindset - automatic!
 
