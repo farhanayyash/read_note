@@ -25,11 +25,11 @@
 * What are the colors, shapes, and everything related to the external * appearance of the site?
 * What is planned for this idea and planning for it and then start with it!
 # some tags can help 
-![Tags](tag.PNG)
+![tag.PNG](tag.PNG)
 # some elemnts 
-![elemnts](elemnt.PNG)
+![elemnt.PNG](elemnt.PNG)
 # look for example in wireframe
-![wireframe](Wireframe.PNG)
+![Wireframe.PNG](Wireframe.PNG)
 
 
 
