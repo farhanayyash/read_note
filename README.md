@@ -37,5 +37,10 @@
     <td>12/23/2020</td>
     <td><a href="https://sarahoth.github.io/read_note/read06b">here</a></td>
   </tr>
+  <tr>
+    <td>READ06b</td>
+    <td>12/23/2020</td>
+    <td><a href="https://sarahoth.github.io/read_note/read07">here</a></td>
+  </tr>
 </table>
 
